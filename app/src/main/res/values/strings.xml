@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnMediaHours</string>
+    <string name="b1text">Вход</string>
+    <string name="send_button_text">ОТПРАВИТЬ</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
