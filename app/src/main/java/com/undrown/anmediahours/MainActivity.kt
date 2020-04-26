@@ -206,7 +206,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun postData(data:Entry){
         val address = "$host/set_entry.php"
-        val comment = URLEncoder.encode(data.comment, "utf-8")
+        val comment = URLEncoder.encode(data.comment, "utf-8").replace("\n", "")
         val url = "$address?uid=$uid&time_start=${data.timeStart}&time_end=${data.timeEnd}&comment=${comment}"
         val stringRequest = StringRequest(
             Request.Method.GET, url,
