@@ -2,8 +2,8 @@
 Вот приложение:
 https://drive.google.com/file/d/1MhbD8h9-BOodQnJIP1W9va44VP2bbAQd/view?usp=sharing
 
-Вот данные на сервере:
-https://anmedia-server.000webhostapp.com/Data
+Вот сервер в инете:
+https://anmedia-server.000webhostapp.com/
 
 Весь код если интересно:
 https://github.com/Undrown/AnMediaHours
